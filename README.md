@@ -5,6 +5,6 @@
    - Steps:
       - Represent account with Digit DNA
       - Deploy a lossless compression on the Digit DNA
-      - Based on the compression statistics, differentiate real users from bots
+      - Based on the compression statistics (compression ratio), differentiate real users from bots via ML alg
 
 ## Datasets
