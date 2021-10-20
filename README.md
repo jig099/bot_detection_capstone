@@ -16,5 +16,5 @@
 1. [BERT text classifier](https://github.com/PatriciaXiao/Transformers_Compare/tree/main/examples/classifier)
 
 ## Timeline
-10/8/2021 - finish reading Paper 1, start reading the code
-10/20/2021 - finish reading the code, work on processing TIMME dataset
+- 10/8/2021 - finish reading Paper 1, start reading the code
+- 10/20/2021 - finish reading the code, work on processing TIMME dataset
