@@ -14,3 +14,6 @@
 3. [Botcamp us election](https://github.com/PatriciaXiao/TIMME/tree/master/data/P_all)
 ## Useful Resource
 1. [BERT text classifier](https://github.com/PatriciaXiao/Transformers_Compare/tree/main/examples/classifier)
+
+## Timeline
+10/20/202
